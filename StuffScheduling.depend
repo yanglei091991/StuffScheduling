@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490776234 source:c:\users\yanglei\desktop\stuffscheduling\main.cpp
+	<iostream>
+	<cmath>
+	<cstring>
+
